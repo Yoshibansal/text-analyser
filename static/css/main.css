@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin-top: 2em;
+}
+
+.container{
+    text-align: center;
+    border: 3px solid rgba(0, 0, 0, 0);
+}
+
+button, .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+    width: 10%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+
+  .btn:hover {
+    opacity: 0.8;
+  }
